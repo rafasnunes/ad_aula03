@@ -18,3 +18,6 @@ preco_final = preco - desconto
 print('Valor da Camisa: ', preco)
 print('Total do Desconto: ', desconto)
 print('Preço final: ', "%.2f" % preco_final)
+
+
+# Teste
